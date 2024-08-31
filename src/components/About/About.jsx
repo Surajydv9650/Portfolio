@@ -15,7 +15,7 @@ const About = () => {
             </div>
             <div className='about-right'>
                 <div className='about-para'>
-                    <p>Passionate Full Stack Web Developer with a knack for crafting intuitive, high-performance web applications that delight users and drive business success. With deep expertise in modern frameworks like React and Node.js</p>
+                    <p>Passionate  Web Developer with a knack for crafting intuitive, high-performance web applications that delight users and drive business success. With deep expertise in modern frameworks like React and Node.js</p>
                     <p>I excel at bridging the gap between design and functionality, ensuring seamless integration across all layers of the tech stack. My commitment to clean, maintainable code and innovative problem-solving makes me an asset to any development team.</p>
                 </div>
                 <div className='about-skills'>

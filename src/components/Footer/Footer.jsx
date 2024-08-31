@@ -8,8 +8,8 @@ const Footer = () => {
     <div className='footer'>
     <div className='footer-top'>
         <div className='footer-top-left'>
-            <img src={footer_logo}/>
-            <p>I am a Full Stack Developer , with 10 month experience</p>
+            {/* <img src={footer_logo}/> */}
+            <p>I am a Fronted Developer , with 10 month experience</p>
         </div>
         <div className='footer-top-right'>
           <div className='footer-email-input'>
